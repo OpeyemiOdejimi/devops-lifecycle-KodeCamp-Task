@@ -1,4 +1,4 @@
-# DevOps Lifeycle KodeCamp
+# DevOps Lifeycle (KodeCamp Task 1)
 
 ## Foundational DevOps Concepts
 
